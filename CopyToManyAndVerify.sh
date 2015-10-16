@@ -1,6 +1,7 @@
 #!/bin/bash
 #
-# Copy a file to multiple target directories with checksum verification
+# Copy a single file to multiple target
+# directories with checksum verification
 
 set -e
 
